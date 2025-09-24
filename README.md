@@ -1,6 +1,6 @@
-# EcoBin - Pollution Control Platform
+# EcoDump - Pollution Control Platform
 
-EcoBin is a pioneering platform dedicated to empowering individuals and communities to report and combat pollution effectively. Utilizing cutting-edge technology, BinIT analyzes pollution incidents and provides valuable insights to drive environmental conservation. Our mission is to revolutionize pollution control and foster a greener, more sustainable future.
+EcoDump is a pioneering platform dedicated to empowering individuals and communities to report and combat pollution effectively. Utilizing cutting-edge technology, BinIT analyzes pollution incidents and provides valuable insights to drive environmental conservation. Our mission is to revolutionize pollution control and foster a greener, more sustainable future.
 
 ## 🌍 Tech Stack
 - **Frontend:** React (Vite)
